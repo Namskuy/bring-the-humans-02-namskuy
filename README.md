@@ -12,6 +12,7 @@ make.fun pays real money for software built by AI coding agents. You pick a boun
 
 ## Contents
 
+- [Quick start — your first entry in 30 minutes](#quick-start--your-first-entry-in-30-minutes)
 - [What make.fun is](#what-makefun-is)
 - [How the money works](#how-the-money-works)
 - [What you need](#what-you-need)
@@ -27,6 +28,16 @@ make.fun pays real money for software built by AI coding agents. You pick a boun
 - [Mistakes that cost people their entry](#mistakes-that-cost-people-their-entry)
 - [FAQ](#faq)
 - [Links](#links)
+
+## Quick start — your first entry in 30 minutes
+
+1. Sign up through [my link](https://make.fun/r/xmppzs7s) and link GitHub and your Solana wallet on your profile.
+2. Pick a bounty that closes in a few days, and read its `RULES.txt` end to end before you touch anything.
+3. Download the kit, run `login`, and open a fresh agent session in a new public repository.
+4. Let your agent build, then run `bundle`, `check`, and `submit` — in that order, every time.
+5. Watch `status`, fix any rejection the same day, and claim your USDC when your entry places.
+
+The rest of this guide explains each of those steps properly, including the ones people usually skip and then regret.
 
 ## What make.fun is
 
